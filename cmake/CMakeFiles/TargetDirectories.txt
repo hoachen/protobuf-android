@@ -1,0 +1,7 @@
+/Users/chenhao/Documents/dev/protobuf/cmake/CMakeFiles/install/local.dir
+/Users/chenhao/Documents/dev/protobuf/cmake/CMakeFiles/install/strip.dir
+/Users/chenhao/Documents/dev/protobuf/cmake/CMakeFiles/install.dir
+/Users/chenhao/Documents/dev/protobuf/cmake/CMakeFiles/list_install_components.dir
+/Users/chenhao/Documents/dev/protobuf/cmake/CMakeFiles/rebuild_cache.dir
+/Users/chenhao/Documents/dev/protobuf/cmake/CMakeFiles/edit_cache.dir
+/Users/chenhao/Documents/dev/protobuf/cmake/CMakeFiles/libprotobuf-lite.dir
